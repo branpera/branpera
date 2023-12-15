@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @branpera
-- 👀 I’m interested in offshore wind energy
-- 🌱 I’m currently learning airflow 
+- 👀 I’m interested in offshore wind energy, programing in python, data analytics, and automating engineering 
+- 🌱 I’m currently testing out copilot
 - 📫 Reach me here
